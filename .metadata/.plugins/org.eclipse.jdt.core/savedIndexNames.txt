@@ -1,0 +1,1 @@
+INDEX VERSION 1.134+/mnt/data/DataStructure_Java/.metadata/.plugins/org.eclipse.jdt.core
